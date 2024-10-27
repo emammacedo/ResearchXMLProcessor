@@ -9,5 +9,5 @@ The project includes the following components:
 2. **Processor** - Analyzes data (XML document produced by the Selector) and generates statistics.
 3. **HTMLViewer** - Transforms the XML output into an HTML view, using XSLT.
 
-<img src="images/img1.jpg" width="400"/>
-<img src="images/img2.jpg" width="400"/>
+<img src="images/img1.png" width="400"/>
+<img src="images/img2.png" width="400"/>
