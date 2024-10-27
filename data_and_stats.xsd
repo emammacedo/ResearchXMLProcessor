@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema"
+	elementFormDefault="qualified">
+	<xs:element name="catalog">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element maxOccurs="unbounded" ref="researcher" />
+				<xs:element ref="statistics" />
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="researcher">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element ref="name" minOccurs="1" maxOccurs="1" />
+				<xs:element ref="email" />
+				<xs:element ref="phone_number" />
+				<xs:element ref="host_institution" minOccurs="1"
+					maxOccurs="1" />
+				<xs:element maxOccurs="unbounded" minOccurs="1"
+					ref="research_interest" />
+				<xs:element maxOccurs="unbounded" minOccurs="1" ref="publication" />
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="name" type="xs:string" />
+	<xs:element name="email" type="xs:string" />
+	<xs:element name="phone_number" type="xs:string" />
+	<xs:element name="host_institution" type="xs:string" />
+	<xs:element name="research_interest" type="xs:string" />
+	<xs:element name="publication">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element ref="title" minOccurs="1" maxOccurs="1" />
+				<xs:element ref="year" minOccurs="1" maxOccurs="1" />
+				<xs:element ref="citations" minOccurs="1" maxOccurs="1" />
+				<xs:element maxOccurs="unbounded" ref="other_authors" />
+				<xs:element ref="conference" />
+				<xs:element ref="publisher" minOccurs="1" maxOccurs="1"/>
+				<xs:element ref="journal" />
+				<xs:element ref="acess" minOccurs="1" maxOccurs="1" />
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="title" type="xs:string" />
+	<xs:element name="year">
+		<xs:simpleType>
+			<xs:restriction base="xs:integer">
+				<xs:pattern value="\d{4}" />
+				<!-- element year must be an integer with 4 digits -->
+			</xs:restriction>
+		</xs:simpleType>
+	</xs:element>
+	<xs:element name="citations" type="xs:integer" />
+	<xs:element name="other_authors" type="xs:string" />
+	<xs:element name="conference" type="xs:string" />
+	<xs:element name="publisher" type="xs:string" />
+	<xs:element name="journal" type="xs:string" />
+	<xs:element name="acess">
+		<xs:simpleType>
+			<xs:restriction base="xs:NCName">
+				<xs:enumeration value="Open" />
+				<xs:enumeration value="Closed" />
+			</xs:restriction>
+		</xs:simpleType>
+	</xs:element>
+	<xs:element name="statistics">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element ref="no_researchers" />
+				<xs:element ref="no_journals_conferences" />
+				<xs:element ref="total_citations" />
+				<xs:element maxOccurs="unbounded" ref="top" />
+				<xs:element ref="highest_cited_author" />
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="no_researchers" type="xs:integer" />
+	<xs:element name="no_journals_conferences" type="xs:integer" />
+	<xs:element name="total_citations" type="xs:integer" />
+	<xs:element name="top" type="xs:string" />
+	<xs:element name="highest_cited_author" type="xs:string" />
+</xs:schema>

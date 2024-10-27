@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<catalog>
+    <researcher>
+        <name>Marco Vieira</name>
+        <email>mvieira@dei.uc.pt</email>
+        <phone_number>+351239790068</phone_number>
+        <host_institution>Universidade de Coimbra</host_institution>
+        <research_interest>Dependability</research_interest>
+        <research_interest>Dependable Computing</research_interest>
+        <research_interest>Software Reliability</research_interest>
+        <research_interest>Software Security</research_interest>
+        <research_interest>Benchmarking</research_interest>
+        <publication>
+            <title>Testing and comparing web vulnerability scanning tools for SQL
+				injection and XSS attacks
+			</title>
+            <year>2007</year>
+            <citations>299</citations>
+            <other_authors>Jose Fonseca</other_authors>
+            <other_authors>Henrique Madeira</other_authors>
+            <conference>13th Pacific Rim international symposium on dependable
+				computing (PRDC 2007)
+			</conference>
+            <publisher>IEEE</publisher>
+            <journal></journal>
+            <acess>Open</acess>
+        </publication>
+        <publication>
+            <title>Evaluating computer intrusion detection systems: A survey of
+				common practices
+			</title>
+            <year>2015</year>
+            <citations>248</citations>
+            <other_authors>Aleksandar Milenkoski</other_authors>
+            <other_authors>Samuel Kounev</other_authors>
+            <other_authors>Alberto Avritzer</other_authors>
+            <other_authors>Bryan D Payne</other_authors>
+            <conference></conference>
+            <publisher>ACM</publisher>
+            <journal>ACM Computing Surveys (CSUR)</journal>
+            <acess>Open</acess>
+        </publication>
+        <publication>
+            <title>Using web security scanners to detect vulnerabilities in web
+				services
+			</title>
+            <year>2009</year>
+            <citations>221</citations>
+            <other_authors>Nuno Antunes</other_authors>
+            <other_authors>Henrique Madeira</other_authors>
+            <conference>2009 IEEE/IFIP International Conference on Dependable
+				Systems and Networks
+			</conference>
+            <publisher>IEEE</publisher>
+            <journal></journal>
+            <acess>Open</acess>
+        </publication>
+        <publication>
+            <title>On the emulation of software faults by software fault
+				injection
+			</title>
+            <year>2000</year>
+            <citations>216</citations>
+            <other_authors>Henrique Madeira</other_authors>
+            <other_authors>Diamantino Costa</other_authors>
+            <conference>Proceeding International Conference on Dependable Systems
+				and Networks. DSN 2000
+			</conference>
+            <publisher>IEEE</publisher>
+            <journal></journal>
+            <acess>Open</acess>
+        </publication>
+        <publication>
+            <title>Choosing the right NoSQL database for the job: a quality
+				attribute evaluation
+			</title>
+            <year>2015</year>
+            <citations>175</citations>
+            <other_authors>João Ricardo Lourenço</other_authors>
+            <other_authors>Bruno Cabral</other_authors>
+            <other_authors>Paulo Carreiro</other_authors>
+            <other_authors>Jorge Bernardino</other_authors>
+            <conference></conference>
+            <publisher>SpringerOpen</publisher>
+            <journal>Journal of Big Data</journal>
+            <acess>Closed</acess>
+        </publication>
+    </researcher>
+    <researcher>
+        <name>Guoli Ming</name>
+        <email>gming@pennmedicine.upenn.edu</email>
+        <phone_number></phone_number>
+        <host_institution>University of Pennsylvania</host_institution>
+        <research_interest>Neuuroscience</research_interest>
+        <research_interest>Stem cells</research_interest>
+        <research_interest>Development</research_interest>
+        <research_interest>Brain disorders</research_interest>
+        <publication>
+            <title>Adult neurogenesis in the mammalian brain: significant answers
+				and significant questions
+			</title>
+            <year>2011</year>
+            <citations>2884</citations>
+            <other_authors>Hongjun Song</other_authors>
+            <conference></conference>
+            <publisher>Elsevier</publisher>
+            <journal>Neuron</journal>
+            <acess>Open</acess>
+        </publication>
+        <publication>
+            <title>Adult neurogenesis in the mammalian central nervous system
+			</title>
+            <year>2005</year>
+            <citations>2324</citations>
+            <other_authors>Hongjun Song</other_authors>
+            <conference></conference>
+            <publisher>Annual Reviews</publisher>
+            <journal>Annu. Rev. Neurosci.</journal>
+            <acess>Open</acess>
+        </publication>
+        <publication>
+            <title>Brain-region-specific organoids using mini-bioreactors for
+				modeling ZIKV exposure
+			</title>
+            <year>2016</year>
+            <citations>1778</citations>
+            <other_authors>Xuyu Qian</other_authors>
+            <other_authors>Ha Nam Nguyen</other_authors>
+            <other_authors>Mingxi M Song</other_authors>
+            <conference></conference>
+            <publisher>Elsevier</publisher>
+            <journal>Cell</journal>
+            <acess>Open</acess>
+        </publication>
+    </researcher>
+    <researcher>
+        <name>Robert J Jones</name>
+        <email></email>
+        <phone_number></phone_number>
+        <host_institution>University of Glasgow</host_institution>
+        <research_interest>Prostate Cancer</research_interest>
+        <research_interest>Bladder Cancer</research_interest>
+        <research_interest>Renal Cancer</research_interest>
+        <research_interest>Clinical Trials</research_interest>
+        <publication>
+            <title>Abiraterone and increased survival in metastatic prostate
+				cancer
+			</title>
+            <year>2011</year>
+            <citations>4854</citations>
+            <other_authors>Johann S De Bono</other_authors>
+            <other_authors>Christopher J Logothetis</other_authors>
+            <other_authors>Arturo Molina</other_authors>
+            <other_authors>Karim Fizazi</other_authors>
+            <other_authors>Scott North</other_authors>
+            <conference></conference>
+            <publisher>Massachusetts Medical Society</publisher>
+            <journal>New England Journal of Medicine</journal>
+            <acess>Open</acess>
+        </publication>
+        <publication>
+            <title>Pazopanib versus sunitinib in metastatic renal-cell carcinoma
+			</title>
+            <year>2013</year>
+            <citations>1998</citations>
+            <other_authors>Robert J Motzer</other_authors>
+            <other_authors>Thomas E Hutson</other_authors>
+            <other_authors>David Cella</other_authors>
+            <other_authors>James Reeves</other_authors>
+            <other_authors>Robert Hawkins</other_authors>
+            <conference></conference>
+            <publisher>Massachusetts Medical Society</publisher>
+            <journal>New England Journal of Medicine</journal>
+            <acess>Open</acess>
+        </publication>
+        <publication>
+            <title>Src-induced de-regulation of E-cadherin in colon cancer cells
+				requires integrin signalling
+			</title>
+            <year>2002</year>
+            <citations>462</citations>
+            <other_authors>Egle Avizienyte</other_authors>
+            <other_authors>Anne W Wyke</other_authors>
+            <other_authors>Gordon W McLean</other_authors>
+            <other_authors>M Andrew Westhoff</other_authors>
+            <conference></conference>
+            <publisher>Nature Publishing Group</publisher>
+            <journal>Nature cell biology</journal>
+            <acess>Closed</acess>
+        </publication>
+    </researcher>
+    <researcher>
+        <name>César A Teixeira</name>
+        <email>cteixei@dei.uc.pt</email>
+        <phone_number>+351239790000</phone_number>
+        <host_institution>Universidade de Coimbra</host_institution>
+        <research_interest>Biomedical Signal Processing</research_interest>
+        <research_interest>Epileptic Seizure Prediction</research_interest>
+        <publication>
+            <title>Epileptic seizure prediction using relative spectral power
+				features
+			</title>
+            <year>2015</year>
+            <citations>278</citations>
+            <other_authors>Mojtaba Bandarabadi</other_authors>
+            <other_authors>Jalil Rasekhi</other_authors>
+            <other_authors>António Dourado</other_authors>
+            <conference></conference>
+            <publisher>Elsevier</publisher>
+            <journal>Clinical Neurophysiology</journal>
+            <acess>Open</acess>
+        </publication>
+        <publication>
+            <title>The EPILEPSIAE database: An extensive electroencephalography
+				database of epilepsy patients
+			</title>
+            <year>2012</year>
+            <citations>159</citations>
+            <other_authors>Juliane Klatt</other_authors>
+            <other_authors>Hinnerk Feldwisch‐Drentrup</other_authors>
+            <other_authors>Matthias Ihle</other_authors>
+            <other_authors>Vincent Navarro</other_authors>
+            <other_authors>Markus Neufang</other_authors>
+            <conference></conference>
+            <publisher>Blackwell Publishing Ltd</publisher>
+            <journal>Epilepsia</journal>
+            <acess>Open</acess>
+        </publication>
+        <publication>
+            <title>Preprocessing effects of 22 linear univariate features on the
+				performance of seizure prediction methods
+			</title>
+            <year>2013</year>
+            <citations>138</citations>
+            <other_authors>Jalil Rasekhi</other_authors>
+            <other_authors>Mohammad Reza Karami Mollaei</other_authors>
+            <other_authors>Antonio Dourado</other_authors>
+            <conference></conference>
+            <publisher>Nature Publishing Group</publisher>
+            <journal>Nature cell biology</journal>
+            <acess>Open</acess>
+        </publication>
+        <publication>
+            <title>A realistic seizure prediction study based on multiclass SVM
+			</title>
+            <year>2017</year>
+            <citations>90</citations>
+            <other_authors>Bruno Direito</other_authors>
+            <other_authors>Francisco Sales</other_authors>
+            <other_authors>Miguel Castelo-Branco</other_authors>
+            <other_authors>António Dourado</other_authors>
+            <conference></conference>
+            <publisher>Nature Publishing Group</publisher>
+            <journal>Nature cell biology</journal>
+            <acess>Open</acess>
+        </publication>
+    </researcher>
+    <researcher>
+        <name>Maria Filomena Botelho</name>
+        <email>mfbotelho@fmed.uc.pt</email>
+        <phone_number>+351239480240</phone_number>
+        <host_institution>Universidade de Coimbra</host_institution>
+        <research_interest>Biophysics</research_interest>
+        <research_interest>Animal Models of Diseases</research_interest>
+        <research_interest>Nuclear Medicine</research_interest>
+        <research_interest>Molecular Imaging</research_interest>
+        <publication>
+            <title>Amniotic membrane: from structure and functions to clinical
+				applications
+			</title>
+            <year>2012</year>
+            <citations>349</citations>
+            <other_authors>Ana Catarina Mamede</other_authors>
+            <other_authors>MJ Carvalho</other_authors>
+            <other_authors>Ana Margarida Abrantes</other_authors>
+            <other_authors>Marta Laranjo</other_authors>
+            <other_authors>CJ Maia</other_authors>
+            <conference></conference>
+            <publisher>Springer-Verlag</publisher>
+            <journal>Cell and Tissue Research</journal>
+            <acess>Open</acess>
+        </publication>
+        <publication>
+            <title>The role of vitamins in cancer: a review
+			</title>
+            <year>2011</year>
+            <citations>210</citations>
+            <other_authors>Ana C Mamede</other_authors>
+            <other_authors>Sónia Dorilde Tavares</other_authors>
+            <other_authors>Ana Margarida Abrantes</other_authors>
+            <other_authors>Joana Trindade</other_authors>
+            <other_authors>Jorge Manuel Maia</other_authors>
+            <conference></conference>
+            <publisher>Taylor and Francis Group</publisher>
+            <journal>Nutrition and cancer</journal>
+            <acess>Closed</acess>
+        </publication>
+    </researcher>
+    <statistics>
+        <no_researchers>5</no_researchers>
+        <no_journals_conferences>17</no_journals_conferences>
+        <total_citations>16683</total_citations>
+        <top>Abiraterone and increased survival in metastatic prostate
+				cancer
+			</top>
+        <top>Adult neurogenesis in the mammalian brain: significant answers
+				and significant questions
+			</top>
+        <top>Adult neurogenesis in the mammalian central nervous system
+			</top>
+        <highest_cited_author>Robert J Jones</highest_cited_author>
+    </statistics>
+</catalog>
